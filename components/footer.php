@@ -5,8 +5,8 @@
       <div class="box">
          <img src="imgs/email-icon.png" alt="">
          <h3>email liên hệ</h3>
-         <a href="mailto:ADmin@gmail.com">ADmin@gmail.com</a>
-         <a href="mailto:supper@gmail.com">supper@gmail.com</a>
+         <a href="mailto:Admin@gmail.com">Admin@gmail.com</a>
+         <a href="mailto:supper@gmail.com">Supper@gmail.com</a>
       </div>
 
       <div class="box">
@@ -19,6 +19,7 @@
       <div class="box">
          <img src="imgs/map-icon.png" alt="">
          <h3>địa chỉ</h3>
+         <a href="#">Phan Đăng Lưu Kiến An.</a>
          <a href="#">Đại học Hải Phòng.</a>
       </div>
 
@@ -26,7 +27,15 @@
          <img src="imgs/phone-icon.png" alt="">
          <h3>số điện thoại</h3>
          <a href="tel://0984277907">0984.277.907</a>
-         <a href="tel://0584678077">0584.678.077</a>
+         <a href="tel://0977123456">0977.123.456</a>
+      
+      </div>
+      <div class="box">
+         <img src="imgs/chamsoc.png" alt="">
+         <h3>chăm sóc khách hàng</h3>
+         <a href="#">Hỗ trợ khách hàng 24/7</a>
+         <a href="#">Khách hàng là thượng đế</a>
+      
       </div>
 
    </section>
@@ -36,5 +45,5 @@
 </footer>
 
 <div class="loader">
-   <img src="imgs/loading.gif" alt="">
+   <img src="imgs/giphy.gif" alt="">
 </div>

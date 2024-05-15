@@ -3,10 +3,11 @@
 :root {
    --pink: #FFD460;
    --red: #e74c3c;
-   --white: #fff;
+   --white: #c5761b;
    --black: #222;
    --light-color: #777;
    --border: .2rem solid var(--black);
+   
 }
 
 * {
@@ -17,6 +18,7 @@
    outline: none;
    border: none;
    text-decoration: none;
+   
 }
 
 *::selection {
@@ -71,8 +73,8 @@ section {
 }
 
 .heading h3 {
-   font-size: 5rem;
-   color: var(--white);
+   font-size: 8rem;
+   color:wheat;
    text-transform: capitalize;
 }
 
@@ -94,7 +96,7 @@ section {
 .delete-btn {
    margin-top: 1rem;
    display: inline-block;
-   font-size: 12px;
+   font-size: 15px;
    padding: 1rem 3rem;
    cursor: pointer;
    text-transform: capitalize;
@@ -103,7 +105,7 @@ section {
 
 .btn {
    background-color: var(--pink);
-   color: var(--black);
+   color: gray;
 }
 
 .delete-btn {
@@ -484,6 +486,9 @@ section {
 .products .more-btn {
    margin-top: 1rem;
    text-align: center;
+}
+.products .more-btn >form{
+   color: aliceblue;
 }
 
 .products .cart-total {
@@ -936,9 +941,6 @@ section {
 
 
 
-
-
-
 .footer .grid {
    display: grid;
    grid-template-columns: repeat(auto-fit, minmax(27rem, 1fr));
@@ -999,7 +1001,7 @@ section {
    right: 0;
    bottom: 0;
    z-index: 1000000;
-   background-color: var(--white);
+   background-color: white;
    display: flex;
    align-items: center;
    justify-content: center;
@@ -1074,6 +1076,7 @@ section {
 
    .heading h3 {
       font-size: 3.5rem;
+      color: aliceblue;
    }
 
    .products .cart-total {

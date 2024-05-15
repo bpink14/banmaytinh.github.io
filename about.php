@@ -110,7 +110,7 @@ if (isset($_SESSION['user_id'])) {
                <img src="imgs/lam.jpg" alt="">
                <h3>Đặng Thị Thanh Lam</h3>
                <p>Tổ trưởng gương mẫu luôn hết mình với công việc, đạt hiệu xuất làm việc xuất sắc.
-                  Một trong những ứng cử viên cho chiếc ghế giám đốc điều hành tương lai.
+                  Một trong những ứng cử viên cho chiếc ghế giám đốc điều hành tương lai.Thật tuyệt vời.
                </p>
                <div class="stars">
                   <i class="fas fa-star"></i>

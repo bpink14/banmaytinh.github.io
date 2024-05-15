@@ -48,9 +48,9 @@ include './convert_currency.php';
 
             <div class="swiper-slide slide">
                <div class="content">
-                  <span>mua sắm</span>
+                  <span>MUA SẮM</span>
                   <h3>asus vivobook</h3>
-                  <a href="./product.php" class="btn">Xem thêm</a>
+                  <a href="./product.php" class="btn">XEM THÊM</a>
                </div>
                <div class="image">
                   <img src="imgs/home-1.png" alt="">
@@ -59,9 +59,9 @@ include './convert_currency.php';
 
             <div class="swiper-slide slide">
                <div class="content">
-                  <span>mua sắm</span>
-                  <h3>acer predator</h3>
-                  <a href="./product.php" class="btn">Xem thêm</a>
+                  <span>MUA SẮM</span>
+                  <h3>Acer Predator</h3>
+                  <a href="./product.php" class="btn">XEM THÊM</a>
                </div>
                <div class="image">
                   <img src="imgs/home-2.png" alt="">
@@ -70,9 +70,9 @@ include './convert_currency.php';
 
             <div class="swiper-slide slide">
                <div class="content">
-                  <span>mua sắm</span>
+                  <span>MUA SẮM</span>
                   <h3>MSI Katana</h3>
-                  <a href="./product.php" class="btn">Xem thêm</a>
+                  <a href="./product.php" class="btn">XEM THÊM</a>
                </div>
                <div class="image">
                   <img src="imgs/home-3.png" alt="">
@@ -81,9 +81,9 @@ include './convert_currency.php';
 
             <div class="swiper-slide slide">
                <div class="content">
-                  <span>mua sắm</span>
+                  <span>MUA SẮM</span>
                   <h3>Razer Blade</h3>
-                  <a href="./product.php" class="btn">Xem thêm</a>
+                  <a href="./product.php" class="btn">XEM THÊM</a>
                </div>
                <div class="image">
                   <img src="imgs/home-4.png" alt="">
@@ -106,22 +106,26 @@ include './convert_currency.php';
 
          <a href="category.php?category=asus" class="box">
             <img src="imgs/asus.png" alt="">
-            <h3>asus</h3>
+            <h3>Asus</h3>
          </a>
 
          <a href="category.php?category=acer" class="box">
             <img src="imgs/acer.png" alt="">
-            <h3>acer</h3>
+            <h3>Acer</h3>
          </a>
 
          <a href="category.php?category=msi" class="box">
             <img src="imgs/msi.png" alt="">
-            <h3>msi</h3>
+            <h3>Msi</h3>
          </a>
 
          <a href="category.php?category=razer" class="box">
             <img src="imgs/razer.png" alt="">
-            <h3>razer</h3>
+            <h3>Razer</h3>
+         </a>
+         <a href="category.php?category=apple" class="box">
+            <img src="imgs/apple.png" alt="">
+            <h3>Apple</h3>
          </a>
 
       </div>
@@ -131,7 +135,7 @@ include './convert_currency.php';
 
    <section class="products">
 
-      <h1 class="title">laptop mới nhất</h1>
+      <h1 class="title">Laptop mới nhất</h1>
 
       <div class="box-container">
 
